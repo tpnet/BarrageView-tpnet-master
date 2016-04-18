@@ -3,7 +3,9 @@ package com.example.tpnet.barrageview_tpnet_master;
 import android.widget.TextView;
 
 /**
- * Created by lixueyong on 16/2/19.
+ * Created by tpnet
+ * 2016\4\16
+ *
  */
 public class BarrageItem {
     public TextView textView;
